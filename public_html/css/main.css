@@ -24,14 +24,14 @@ header {
 }
 
 
-main {
+#main {
     max-width: 780px;
     padding: 10px;
     margin: 20px auto;
     background-color: #fff;
 }
 
-main article p {
+#main article p {
     padding: 0 10px;
 }
 
