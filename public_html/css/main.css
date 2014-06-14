@@ -1,0 +1,47 @@
+body, html, h1, h2, h3, h4, h5{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    background-color: #ddd;
+}
+
+.titleCol2 {
+    color: #f44;
+}
+
+.pagetitle {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+main {
+    max-width: 780px;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: #fff;
+}
+
+main article p {
+    padding: 0 10px;
+}
+
+
+footer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.copy {
+
+}
+
